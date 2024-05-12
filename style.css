@@ -7,6 +7,19 @@ body{
   font-family: "Open Sans", sans-serif;
   margin:0;
 }
+
+.section-title{
+    color:#181818;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700;
+}
+.section-description{
+    color: #757575;
+    font-size: 18px;
+    text-align: center;
+}
+
 /* nav style */
 
 .nav-title {
@@ -90,4 +103,13 @@ nav a {
     color: #FD6E0A;
     border: 1px solid #FD6E0A;
     margin-left: 20px;
+}
+
+
+
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
 }
